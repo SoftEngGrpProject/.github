@@ -1,3 +1,6 @@
+<img alt="AR.it logo" src="https://user-images.githubusercontent.com/73425927/225217819-1bc61fc4-dd4a-490c-8157-4d9f9f6dbcf9.png" width="25%" />
+
+
 # AR.it
 
 Welcome to **AR.it**! Our social media app offers a unique way to document and share memories with others.<br>
